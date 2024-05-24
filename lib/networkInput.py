@@ -1,3 +1,8 @@
+## Idea:
+## Load json file here and create dataframes or similar data structures
+## Data frames can than be processed in network creation
+## Must not follow this exact structure, but the network creation and loading the data should be separated
+
 class NetworkInput:
     def __init__(self):
         print('TBD')
